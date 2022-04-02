@@ -1,0 +1,26 @@
+export default [
+    { 
+      id: 1,
+      nome: "Racao 1",
+      preco: 30,
+      imagem: "pedigree.jpg"
+    },
+    {
+      id: 2,
+      nome: "Racao 2",
+      preco: 45,
+      imagem: "pedigree.jpg"
+    },
+    {
+      id: 3,
+      nome: "Shampoo 1",
+      preco: 10,
+      imagem: "pedigree.jpg"
+    },
+    {
+      id: 4,
+      nome: "Shampoo 2",
+      preco: 12,
+      imagem: "pedigree.jpg"
+    }
+  ]
